@@ -1,3 +1,3 @@
-Hello World
-Hello World
-Hello World
+Gitの世界にようこそ
+Gitはプログラマにとって
+必要なツールです
